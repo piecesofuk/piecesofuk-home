@@ -3,3 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+h1 {
+    font-size: 2em;
+    /* margin-bottom: 20px; */
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 1.5em;
+    margin-bottom: 15px;
+    background-color: darkred;
+    color: yellow;
+    padding: 8px;
+}
