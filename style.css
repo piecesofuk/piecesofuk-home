@@ -1,12 +1,16 @@
 * {
     margin: 0;
     padding: 0;
+    border: 0;
     box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
 }
 
 h1 {
     font-size: 2em;
-    /* margin-bottom: 20px; */
     background-color: navy;
     color: white;
     padding: 10px;
@@ -14,8 +18,12 @@ h1 {
 
 h2 {
     font-size: 1.5em;
-    margin-bottom: 15px;
     background-color: darkred;
     color: yellow;
     padding: 8px;
+}
+
+#main {
+  width: 700px;
+  margin: auto;
 }
